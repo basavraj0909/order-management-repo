@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1ce8eb7-2b48-46d8-928c-dd52c5dd6d45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2lykxwyU0v6ZzX4u6ie8lJreQZY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1ce8eb7-2b48-46d8-928c-dd52c5dd6d45" name="Default Changelist" comment="" />
+      <created>1726159955836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726159955836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="126" y="0" key="SettingsEditor" timestamp="1726160070844">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="126" y="0" key="SettingsEditor/0.0.1462.864@0.0.1462.864" timestamp="1726160070844" />
+    <state x="374" y="124" width="714" height="616" key="find.popup" timestamp="1726162470702">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="374" y="124" width="714" height="616" key="find.popup/0.0.1462.864@0.0.1462.864" timestamp="1726162470702" />
+  </component>
+</project>
