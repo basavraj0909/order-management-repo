@@ -126,26 +126,29 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGGING = {
     'version': 1,
-    'disable_existing_loggers': False,
+    'disable_existing_loggers': True,  # Disable Django's default logging
     'handlers': {
         'console': {
             'class': 'logging.StreamHandler',
+            'level': 'WARNING',  # Change this level to control the verbosity
         },
         'file': {
             'class': 'logging.FileHandler',
             'filename': 'django.log',
+            'level': 'WARNING',  # Change this level to control the verbosity
         },
     },
     'loggers': {
         'django': {
             'handlers': ['console', 'file'],
-            'level': 'DEBUG',
-            'propagate': True,
+            'level': 'WARNING',  # Change this level to control the verbosity
+            'propagate': False,  # Stop propagation to parent loggers
         },
         'myapp': {  # Replace 'myapp' with your app's name
             'handlers': ['console', 'file'],
-            'level': 'DEBUG',
+            'level': 'WARNING',  # Change this level to control the verbosity
             'propagate': False,
         },
     },
 }
+
