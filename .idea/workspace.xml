@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ce8eb7-2b48-46d8-928c-dd52c5dd6d45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_management_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/order_management_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_mgmt_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/order_mgmt_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_mgmt_app/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/order_mgmt_app/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order_mgmt_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/order_mgmt_app/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,34 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RunManager">
+    <configuration name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="order_management_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/order_management_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/order_management_project/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,6 +82,22 @@
       <screen x="0" y="0" width="1462" height="864" />
     </state>
     <state x="455" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1462.864@0.0.1462.864" timestamp="1726377570096" />
+    <state width="1435" height="209" key="GridCell.Tab.0.bottom" timestamp="1726392975748">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1435" height="209" key="GridCell.Tab.0.bottom/0.0.1462.864@0.0.1462.864" timestamp="1726392975748" />
+    <state width="1435" height="209" key="GridCell.Tab.0.center" timestamp="1726392975748">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1435" height="209" key="GridCell.Tab.0.center/0.0.1462.864@0.0.1462.864" timestamp="1726392975748" />
+    <state width="1435" height="209" key="GridCell.Tab.0.left" timestamp="1726392975748">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1435" height="209" key="GridCell.Tab.0.left/0.0.1462.864@0.0.1462.864" timestamp="1726392975748" />
+    <state width="1435" height="209" key="GridCell.Tab.0.right" timestamp="1726392975748">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1435" height="209" key="GridCell.Tab.0.right/0.0.1462.864@0.0.1462.864" timestamp="1726392975748" />
     <state x="126" y="0" key="SettingsEditor" timestamp="1726160070844">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
