@@ -82,6 +82,26 @@ DATABASES = {
     }
 }
 
+### TODO
+# import configparser
+# import os
+#
+# BASE_DIR = Path(__file__).resolve().parent.parent
+#
+# config = configparser.ConfigParser()
+# config.read(os.path.join(BASE_DIR, 'config.ini'))
+#
+# print(config)
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': config.get('database', 'NAME'),
+#         'USER': config.get('database', 'USER'),
+#         'PASSWORD': config.get('database', 'PASSWORD'),
+#         'HOST': config.get('database', 'HOST'),
+#         'PORT': config.get('database', 'PORT'),
+#     }
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
