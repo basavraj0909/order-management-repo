@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1ce8eb7-2b48-46d8-928c-dd52c5dd6d45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django.log" beforeDir="false" afterPath="$PROJECT_DIR$/django.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order_management_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/order_management_project/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,10 +48,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="455" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1726332136661">
+    <state x="455" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1726377570096">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
-    <state x="455" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1462.864@0.0.1462.864" timestamp="1726332136661" />
+    <state x="455" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1462.864@0.0.1462.864" timestamp="1726377570096" />
     <state x="126" y="0" key="SettingsEditor" timestamp="1726160070844">
       <screen x="0" y="0" width="1462" height="864" />
     </state>
